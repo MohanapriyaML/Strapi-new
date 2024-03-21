@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_collection_collections",
+  "info": {
+    "displayName": "Collection"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "link": {
+      "type": "string"
+    },
+    "color": {
+      "type": "json"
+    },
+    "Modern": {
+      "displayName": "Modern",
+      "type": "component",
+      "repeatable": true,
+      "component": "collection.modern"
+    }
+  }
+}

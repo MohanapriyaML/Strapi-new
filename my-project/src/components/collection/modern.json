@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_collection_moderns",
+  "info": {
+    "displayName": "Modern"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "Noofproducts": {
+      "type": "biginteger"
+    }
+  }
+}
