@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_header_navs",
+  "info": {
+    "displayName": "Navbar",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "isnew": {
+      "type": "boolean"
+    },
+    "type": {
+      "type": "string"
+    }
+  }
+}
